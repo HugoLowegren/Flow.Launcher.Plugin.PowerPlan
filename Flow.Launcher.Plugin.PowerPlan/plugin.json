@@ -1,0 +1,12 @@
+﻿{
+    "ID":"054D2B10208B7D18D484D69063E64245",
+    "ActionKeyword":"pp",
+    "Name":"PowerPlan",
+    "Description":"Power plan quick switch",
+    "Author":"HugoLowegren",
+    "Version":"1.0",
+    "Language":"csharp",
+    "Website":"https://github.com/HugoLowegren/Flow.Launcher.Plugin.PowerPlan",
+    "ExecuteFileName":"Flow.Launcher.Plugin.PowerPlan.dll",
+	"IcoPath":"ico\\Battery-1.png"
+}
